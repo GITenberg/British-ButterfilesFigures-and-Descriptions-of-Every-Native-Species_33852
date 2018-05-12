@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '36717'
     url: http://www.gutenberg.org/2009/agents/36717
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33852#British-ButterfilesFigures-and-Descriptions-of-Every-Native-Species
 gutenberg_bookshelf:
 - Animals-Wild-Insects
 - Animal
