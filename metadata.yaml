@@ -1,0 +1,39 @@
+_repo: British-ButterfilesFigures-and-Descriptions-of-Every-Native-Species_33852
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Evans, Edmund
+    alias: Evans, E. (Edmund)
+    birthdate: 1826
+    deathdate: 1905
+    gutenberg_agent_id: '31336'
+    url: http://www.gutenberg.org/2009/agents/31336
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Coleman, W. S. (William Stephen)
+    alias: Coleman, William Stephen
+    birthdate: 1829
+    deathdate: 1904
+    gutenberg_agent_id: '36717'
+    url: http://www.gutenberg.org/2009/agents/36717
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild-Insects
+- Animal
+gutenberg_issued: '2010-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33852'
+  lccn: '16021034'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Butterflies -- Great Britain'
+title: 'British Butterflies: Figures and Descriptions of Every Native Species'
+url: http://www.gutenberg.org/ebooks/33852
